@@ -1,1 +1,1 @@
-console.log('config.jsa');
+console.log('config');
